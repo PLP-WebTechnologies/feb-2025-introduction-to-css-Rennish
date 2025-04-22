@@ -1,0 +1,59 @@
+/* style headings */
+
+h1, h2{
+  color: azure;
+  font-weight: 800;
+  background-color: orchid;
+  max-width: fit-content;
+ /* align-items: center; */
+  text-align: center;
+  padding: 10px;
+  margin: 5px auto;
+  border: 30px;
+  line-height: normal;
+  border-radius: 10px;
+  
+}
+h4, p{
+  font-weight: 600px;
+  background-color: rgb(232, 211, 185);
+  font-size: xx-large;
+  padding: 5px;
+  border: 10px;
+  margin: 10px;
+}
+
+/* style the images */
+img{
+  width: 600px;
+  height: 700px;
+ 
+ 
+}
+#contact-me{
+  border-radius: 10px;
+  background-color: cadetblue;
+  padding: 3px;
+  margin:  auto;
+  font-style: oblique;
+  font-size: xx-large;
+  display: block;
+
+}
+.image-container{
+  float: left;
+  padding: 2px 16px;
+  border: 5px solid orchid;
+  max-width: fit-content;
+  margin: 20px;
+}
+
+.image-card{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+
+}
+body{
+  background-color: antiquewhite;
+}
